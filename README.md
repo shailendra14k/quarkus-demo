@@ -1,4 +1,4 @@
-# code-with-quarkus-g Project
+# code-with-quarkus-g Project-1
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
